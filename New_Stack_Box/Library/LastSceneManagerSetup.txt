@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Meterials/Stack_Box_Scene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Meterials/RRFreelance/WarehouseStuff/Scenes/StandardRP/WareHouseStuff_Standard.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
